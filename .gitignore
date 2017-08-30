@@ -1,0 +1,11 @@
+*.sqlite
+*.DS_Store
+*.zip
+*.pyc
+*.log
+*local_settings.py
+*data/*
+*migrations/*py
+*migrations_django/*py
+*wadofstuff*
+*outside_libs*
